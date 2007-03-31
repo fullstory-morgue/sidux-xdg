@@ -1,0 +1,10 @@
+sidux-xdg (0.1) unstable; urgency=low
+
+  [ Joaquim Boura ]
+  * Initial release.
+
+  [ Stefan Lippers-Hollmann ]
+  * fix a few lintian/ packaging issues, upload preliminary preview for
+    testing.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 31 Mar 2007 05:02:35 +0200

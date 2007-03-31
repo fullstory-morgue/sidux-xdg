@@ -1,0 +1,13 @@
+Source: sidux-xdg
+Section: admin
+Priority: optional
+Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Build-Depends: cdbs, debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: sidux-xdg
+Architecture: all
+Depends: 
+Conflicts: sidux-menu
+Description: sidux xdg menu system
+ basic defintions for freedesktop XDG integration.
