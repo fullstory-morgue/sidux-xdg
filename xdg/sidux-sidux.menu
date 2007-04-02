@@ -31,6 +31,8 @@
 				<Directory>sidux-TV.directory</Directory>
 				<Include>
 					<And>
+					<Not><Category>GTK</Category></Not>
+					<Not><Category>AudioVideo</Category></Not>
 					<Category>TV</Category>
 					</And>
 				</Include>
