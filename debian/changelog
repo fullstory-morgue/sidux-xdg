@@ -1,9 +1,13 @@
-sidux-xdg (0.0.2) unstable; urgency=low
+sidux-xdg (0.1.1) unstable; urgency=low
 
+  [ Joaquim Boura ]
   * some extra apps were shown in the sidux menu. make inclusion a bit tightier
   * thanks to koslow
 
- -- Joaquim Boura <x-un-i@sidux.com>  Tue, 03 Apr 2007 00:52:35 +0200
+  [ Stefan Lippers-Hollmann ]
+  * bump version to ensure updating.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 03 Apr 2007 01:21:29 +0200
 
 sidux-xdg (0.1) unstable; urgency=low
 
