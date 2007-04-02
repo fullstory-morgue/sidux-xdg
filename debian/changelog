@@ -1,9 +1,5 @@
-sidux-xdg (0.0.2) UNRELEASED; urgency=low
+sidux-xdg (0.0.2) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Joaquim Boura ]
   * some extra apps were shown in the sidux menu. make inclusion a bit tightier
   * thanks to koslow
 
