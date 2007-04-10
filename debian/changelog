@@ -1,9 +1,5 @@
-sidux-xdg (0.1.3) UNRELEASED; urgency=low
+sidux-xdg (0.1.3) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Horst Tritremmel ]
   * add </Menu> to sidux-sidux.menu
 
  -- Horst Tritremmel <hjt@sidux.com>  Tue, 10 Apr 2007 15:16:29 +0200
