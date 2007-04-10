@@ -1,9 +1,5 @@
-sidux-xdg (0.1.2) UNRELEASED; urgency=low
+sidux-xdg (0.1.2) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Joaquim Boura ]
   * icons were renamed
 
  -- Joaquim Boura <x-un-i@sidux.com>  Tue, 10 Apr 2007 01:12:26 +0200
