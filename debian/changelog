@@ -1,9 +1,5 @@
-sidux-xdg (0.1.4) UNRELEASED; urgency=low
+sidux-xdg (0.1.4) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Joaquim Boura ]
   * new icons for the submenus
     one icon was missing
 
