@@ -1,2 +1,3 @@
-xdg/* etc/xdg/menus/applications-merged/
-desktop-directories/* usr/share/desktop-directories/
+xdg/*			etc/xdg/menus/applications-merged/
+desktop-directories/*	usr/share/desktop-directories/
+icons			usr/share/
