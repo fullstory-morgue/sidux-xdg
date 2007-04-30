@@ -1,9 +1,5 @@
-sidux-xdg (0.1.6) UNRELEASED; urgency=low
+sidux-xdg (0.1.6) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Joaquim Boura ]
   * fix name of directory file to sidux only 
 
  -- Joaquim Boura <x-un-i@sidux.com>  Tue, 01 May 2007 01:38:13 +0200
