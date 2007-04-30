@@ -1,3 +1,9 @@
+sidux-xdg (0.1.7) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 01 May 2007 01:55:32 +0200
+
 sidux-xdg (0.1.6) unstable; urgency=low
 
   * fix name of directory file to sidux only 
