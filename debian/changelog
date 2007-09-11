@@ -1,8 +1,9 @@
 sidux-xdg (0.1.7) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
+  * add VCS control headers.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 01 May 2007 01:55:32 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 11 Sep 2007 20:25:27 +0200
 
 sidux-xdg (0.1.6) unstable; urgency=low
 
