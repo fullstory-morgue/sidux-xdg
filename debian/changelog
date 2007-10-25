@@ -1,10 +1,9 @@
-sidux-xdg (0.1.7) UNRELEASED; urgency=low
+sidux-xdg (0.1.7) unstable; urgency=low
 
-  * NOT RELEASED YET
   * add VCS control headers.
   * update syntax for Vcs headers in debian/control
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 07 Oct 2007 14:51:43 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 25 Oct 2007 19:35:22 +0200
 
 sidux-xdg (0.1.6) unstable; urgency=low
 
