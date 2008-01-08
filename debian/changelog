@@ -1,8 +1,9 @@
-sidux-xdg (0.1.9) UNRELEASED; urgency=low
+sidux-xdg (0.1.9) ORPHANED; urgency=low
 
   * NOT RELEASED YET
+  * ORPHAN PACKAGE
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 09 Dec 2007 00:08:49 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 08 Jan 2008 20:09:47 +0100
 
 sidux-xdg (0.1.8) unstable; urgency=low
 
